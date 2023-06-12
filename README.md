@@ -1,4 +1,4 @@
-Hi, i'm a mechatronics engineer that in 2021 entered the professional software development world in search for what really moves me, and indeed found it. Started as a fullstack dev, but converged to do only backend stuff where my ♥️ lives.
+Hi, i'm a mechatronics engineer that in 2021 entered the professional software development world in search for what really moves me, and indeed found it. Started as a fullstack dev, but converged to do mainly backend stuff where my ♥️ lives.
 
 ## Areas of interest
 - Software design & architecture
@@ -29,11 +29,9 @@ Hi, i'm a mechatronics engineer that in 2021 entered the professional software d
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-### Planning to learn & use
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+### Eager to learn & use
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
-
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
