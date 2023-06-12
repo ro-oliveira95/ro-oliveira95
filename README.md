@@ -1,5 +1,3 @@
-# Hello World 🤖
-
 Hi, i'm a mechatronics engineer that in 2021 entered the professional software development world in search for what really moves me, and indeed found it. Started as a fullstack dev, but converged to do only backend stuff where my ♥️ lives.
 
 ## Areas of interest
